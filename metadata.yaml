@@ -1,0 +1,28 @@
+_repo: Poems_59276
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mansfield, Katherine
+    aliases:
+    - Bowden, Kathleen
+    - Beauchamp, Kathleen M. (Kathleen Mansfield)
+    - Murry, Kathleen Beauchamp
+    - Berry, Matilda
+    birthdate: 1888
+    deathdate: 1923
+    gutenberg_agent_id: '631'
+    url: http://www.gutenberg.org/2009/agents/631
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Mansfield
+description: ''
+gutenberg_issued: '2019-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/59276
